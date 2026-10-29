@@ -1,0 +1,10 @@
+hello this python file handling 
+ files
+ myenv\scripts\activate
+ deactivate
+ myenv\scripts\activate
+ pip list
+ pip install numpy
+ pip freeze
+ pip freeze >requirements.txt
+ pip install -r requirements.txt
